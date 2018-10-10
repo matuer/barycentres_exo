@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1538735755 source:c:\users\mathis\desktop\barycentres_exo\main.cpp
+	<iostream>
+	"sphere.h"
+
+1538731651 source:c:\users\mathis\desktop\barycentres_exo\svgfile.cpp
+	<iostream>
+	<sstream>
+
+1538735580 source:c:\users\mathis\desktop\barycentres_exo\sphere.cpp
+	"sphere.h"
+	<iostream>
+	"svgfile.h"
+
+1538845976 c:\users\mathis\desktop\barycentres_exo\sphere.h
+	<iostream>
+
+1538731651 c:\users\mathis\desktop\barycentres_exo\svgfile.h
+	<string>
+	<fstream>
+	<set>
+
